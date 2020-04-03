@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Sasegoi&#39;s Blog</title>
+  <icon>https://sasegoi.github.io.git/icon.png</icon>
+  <subtitle>如人饮水，冷暖自知</subtitle>
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="https://sasegoi.github.io.git/"/>
+  <updated>2020-04-03T04:29:52.333Z</updated>
+  <id>https://sasegoi.github.io.git/</id>
+  
+  <author>
+    <name>sasegoi</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>test</title>
+    <link href="https://sasegoi.github.io.git/2020/04/03/test/"/>
+    <id>https://sasegoi.github.io.git/2020/04/03/test/</id>
+    <published>2020-04-03T04:29:52.000Z</published>
+    <updated>2020-04-03T04:29:52.333Z</updated>
+    
+    <summary type="html">
+    
+    </summary>
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="https://sasegoi.github.io.git/2020/04/03/hello-world/"/>
+    <id>https://sasegoi.github.io.git/2020/04/03/hello-world/</id>
+    <published>2020-04-03T02:46:41.744Z</published>
+    <updated>2020-04-03T02:46:41.744Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a
+        
+      
+    
+    </summary>
+    
+    
+    
+  </entry>
+  
+</feed>
