@@ -3,7 +3,7 @@
   <entry>
     <title>Markdown语法总结</title>
     <url>/2020/04/03/test/</url>
-    <content><![CDATA[<h1 id="Markdown语法总结"><a href="#Markdown语法总结" class="headerlink" title="Markdown语法总结"></a>Markdown语法总结</h1><h2 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h2><p>Hello, world! 本文是 Sasegoi’s Blog 的第一篇文章，很高兴可以成功地完成 hexo 与 github 的配置，非常感谢 Bilibili 作者 hojun_cn 与 CodeSheep 的教学视频。本 Blog 主要内容为个人学习的笔记，所以可能存在一些问题，烦请各位不吝赐教，集思广益。</p>
+    <content><![CDATA[<h1 id="Markdown语法总结"><a href="#Markdown语法总结" class="headerlink" title="Markdown语法总结"></a>Markdown语法总结</h1><h2 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h2><p>Hello, world! 本文是 Sasegoi’s Blog 的第一篇文章，很高兴可以成功地完成 hexo 与 github 的配置，非常感谢 Bilibili 作者 hojun_cn 与 CodeSheep 的教学视频。本 Blog 主要内容为个人学习的笔记，所以可能存在一些问题，烦请各位不吝赐教，集思广益。<a id="more"></a></p>
 <h2 id="基本语法"><a href="#基本语法" class="headerlink" title="基本语法"></a>基本语法</h2><h3 id="标题-Headers"><a href="#标题-Headers" class="headerlink" title="标题(Headers)"></a>标题(Headers)</h3><figure class="highlight plain"><table><tr><td class="code"><pre><span class="line"># This is an &lt;h1&gt; tag</span><br><span class="line">## This is an &lt;h2&gt; tag</span><br><span class="line">###### This is an &lt;h6&gt; tag</span><br></pre></td></tr></table></figure>
 
 <p>以上代码为 atx 形式。</p>
