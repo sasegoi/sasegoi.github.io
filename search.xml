@@ -1,8 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title>test</title>
+    <title>Markdown语法总结</title>
     <url>/2020/04/03/test/</url>
-    <content><![CDATA[]]></content>
+    <content><![CDATA[<h1 id="Markdown语法总结"><a href="#Markdown语法总结" class="headerlink" title="Markdown语法总结"></a>Markdown语法总结</h1><h2 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h2><p>Hello, world! 本文是 Sasegoi’s Blog 的第一篇文章，很高兴可以成功地完成 hexo 与 github 的配置，非常感谢 Bilibili 作者 hojun_cn 与 CodeSheep 的教学视频。</p>
+]]></content>
+      <categories>
+        <category>Markdown Learning</category>
+      </categories>
+      <tags>
+        <tag>Markdown</tag>
+      </tags>
   </entry>
 </search>
