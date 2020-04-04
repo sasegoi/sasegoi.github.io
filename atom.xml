@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://sasegoi.github.io.git/"/>
-  <updated>2020-04-03T14:01:44.072Z</updated>
+  <updated>2020-04-04T15:53:54.282Z</updated>
   <id>https://sasegoi.github.io.git/</id>
   
   <author>
@@ -17,11 +17,36 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>机器学习课程复习1</title>
+    <link href="https://sasegoi.github.io.git/2020/04/04/Machine-Learning-Lecture-Review/"/>
+    <id>https://sasegoi.github.io.git/2020/04/04/Machine-Learning-Lecture-Review/</id>
+    <published>2020-04-04T10:38:48.000Z</published>
+    <updated>2020-04-04T15:53:54.282Z</updated>
+    
+    <summary type="html">
+    
+      &lt;h1 id=&quot;机器学习课程复习1&quot;&gt;&lt;a href=&quot;#机器学习课程复习1&quot; class=&quot;headerlink&quot; title=&quot;机器学习课程复习1&quot;&gt;&lt;/a&gt;机器学习课程复习1&lt;/h1&gt;&lt;h2 id=&quot;Lesson-1&quot;&gt;&lt;a href=&quot;#Lesson-1&quot; class=&quot;headerlink&quot; title=&quot;Lesson 1&quot;&gt;&lt;/a&gt;Lesson 1&lt;/h2&gt;&lt;h3 id=&quot;Machine-Learning-Approaches&quot;&gt;&lt;a href=&quot;#Machine-Learning-Approaches&quot; class=&quot;headerlink&quot; title=&quot;Machine Learning Approaches&quot;&gt;&lt;/a&gt;Machine Learning Approaches&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;Supervised Learning&lt;ul&gt;
+&lt;li&gt;predictive models&lt;/li&gt;
+&lt;li&gt;classification&lt;/li&gt;
+&lt;li&gt;KNN, naive Bayes, decision trees, linear regressions, neural networks, SVM
+    
+    </summary>
+    
+    
+      <category term="Machine Learning" scheme="https://sasegoi.github.io.git/categories/Machine-Learning/"/>
+    
+    
+      <category term="Machine Learning" scheme="https://sasegoi.github.io.git/tags/Machine-Learning/"/>
+    
+  </entry>
+  
+  <entry>
     <title>Markdown语法总结</title>
-    <link href="https://sasegoi.github.io.git/2020/04/03/test/"/>
-    <id>https://sasegoi.github.io.git/2020/04/03/test/</id>
+    <link href="https://sasegoi.github.io.git/2020/04/03/Markdown-Summary/"/>
+    <id>https://sasegoi.github.io.git/2020/04/03/Markdown-Summary/</id>
     <published>2020-04-03T04:29:52.000Z</published>
-    <updated>2020-04-03T14:01:44.072Z</updated>
+    <updated>2020-04-04T15:53:58.717Z</updated>
     
     <summary type="html">
     
