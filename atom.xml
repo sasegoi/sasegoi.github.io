@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://sasegoi.github.io.git/"/>
-  <updated>2020-04-05T00:27:35.651Z</updated>
+  <updated>2020-04-05T12:58:32.111Z</updated>
   <id>https://sasegoi.github.io.git/</id>
   
   <author>
@@ -17,11 +17,40 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>机器学习课程复习2</title>
+    <link href="https://sasegoi.github.io.git/2020/04/05/Machine-Learning-Lecture-Review-2/"/>
+    <id>https://sasegoi.github.io.git/2020/04/05/Machine-Learning-Lecture-Review-2/</id>
+    <published>2020-04-05T00:38:08.000Z</published>
+    <updated>2020-04-05T12:58:32.111Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;script type=&quot;text/javascript&quot; src=&quot;http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=default&quot;&gt;&lt;/script&gt;
+
+&lt;h1 id=&quot;机器学习课程复习2&quot;&gt;&lt;a
+        
+      
+    
+    </summary>
+    
+    
+      <category term="Machine Learning" scheme="https://sasegoi.github.io.git/categories/Machine-Learning/"/>
+    
+    
+      <category term="Machine Learning" scheme="https://sasegoi.github.io.git/tags/Machine-Learning/"/>
+    
+  </entry>
+  
+  <entry>
     <title>机器学习课程复习1</title>
     <link href="https://sasegoi.github.io.git/2020/04/04/Machine-Learning-Lecture-Review/"/>
     <id>https://sasegoi.github.io.git/2020/04/04/Machine-Learning-Lecture-Review/</id>
     <published>2020-04-04T10:38:48.000Z</published>
-    <updated>2020-04-05T00:27:35.651Z</updated>
+    <updated>2020-04-05T00:36:26.958Z</updated>
     
     <summary type="html">
     
