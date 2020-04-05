@@ -87,8 +87,7 @@
 <li>What would happen if some features have much larger values than others?</li>
 <li>So we have to adjust scaling in our data.<ul>
 <li>min-max normalization (0-1)</li>
-<li><del>要继续整理Markdown数学公式的插入！</del></li>
-<li>\(X_{new} = \frac{X-min(X)}{max(X)-min(X)}\)</li>
+<li><del>要继续整理Markdown数学公式的插入！</del><br>$X_{new} = \frac{X-min(X)}{max(X)-min(X)}$</li>
 </ul>
 </li>
 <li>z-score standardization</li>
