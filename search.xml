@@ -7,6 +7,7 @@
 
 <h1 id="机器学习课程复习2"><a href="#机器学习课程复习2" class="headerlink" title="机器学习课程复习2"></a>机器学习课程复习2</h1><h2 id="Lesson-5"><a href="#Lesson-5" class="headerlink" title="Lesson 5"></a>Lesson 5</h2><h3 id="Neural-Networks"><a href="#Neural-Networks" class="headerlink" title="Neural Networks"></a>Neural Networks</h3><p>Artificial Neural Network (ANN)</p>
 <h4 id="Black-box-method"><a href="#Black-box-method" class="headerlink" title="Black box method"></a>Black box method</h4><p>Complex mathematical underpinnings of models and results that are challenging to interpret.</p>
+<a id="more"></a>
 <h4 id="How-ANN-works"><a href="#How-ANN-works" class="headerlink" title="How ANN works?"></a>How ANN works?</h4><ul>
 <li>Activation function<ul>
 <li>Threshold activations function (0-1)</li>

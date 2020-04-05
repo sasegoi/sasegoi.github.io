@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://sasegoi.github.io.git/"/>
-  <updated>2020-04-05T12:58:32.111Z</updated>
+  <updated>2020-04-05T13:10:12.951Z</updated>
   <id>https://sasegoi.github.io.git/</id>
   
   <author>
@@ -21,19 +21,14 @@
     <link href="https://sasegoi.github.io.git/2020/04/05/Machine-Learning-Lecture-Review-2/"/>
     <id>https://sasegoi.github.io.git/2020/04/05/Machine-Learning-Lecture-Review-2/</id>
     <published>2020-04-05T00:38:08.000Z</published>
-    <updated>2020-04-05T12:58:32.111Z</updated>
+    <updated>2020-04-05T13:10:12.951Z</updated>
     
     <summary type="html">
     
-      
-      
-        
-        
-          &lt;script type=&quot;text/javascript&quot; src=&quot;http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=default&quot;&gt;&lt;/script&gt;
+      &lt;script type=&quot;text/javascript&quot; src=&quot;http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=default&quot;&gt;&lt;/script&gt;
 
-&lt;h1 id=&quot;机器学习课程复习2&quot;&gt;&lt;a
-        
-      
+&lt;h1 id=&quot;机器学习课程复习2&quot;&gt;&lt;a href=&quot;#机器学习课程复习2&quot; class=&quot;headerlink&quot; title=&quot;机器学习课程复习2&quot;&gt;&lt;/a&gt;机器学习课程复习2&lt;/h1&gt;&lt;h2 id=&quot;Lesson-5&quot;&gt;&lt;a href=&quot;#Lesson-5&quot; class=&quot;headerlink&quot; title=&quot;Lesson 5&quot;&gt;&lt;/a&gt;Lesson 5&lt;/h2&gt;&lt;h3 id=&quot;Neural-Networks&quot;&gt;&lt;a href=&quot;#Neural-Networks&quot; class=&quot;headerlink&quot; title=&quot;Neural Networks&quot;&gt;&lt;/a&gt;Neural Networks&lt;/h3&gt;&lt;p&gt;Artificial Neural Network (ANN)&lt;/p&gt;
+&lt;h4 id=&quot;Black-box-method&quot;&gt;&lt;a href=&quot;#Black-box-method&quot; class=&quot;headerlink&quot; title=&quot;Black box method&quot;&gt;&lt;/a&gt;Black box method&lt;/h4&gt;&lt;p&gt;Complex mathematical underpinnings of models and results that are challenging to interpret.&lt;/p&gt;
     
     </summary>
     
